@@ -5,7 +5,7 @@ Por Manuel Charaja
 #Instrucciones
 
 Tener Visual Studio 2022 instalado
-Para instalar esta version de Perceptron se necesita el Toolkit de CUDA cuda_12.6.3_windows_network.exe disponible aqui (Ademas asegurarse que la version sea compatible con la Tarjeta grafica):
+Para instalar esta version de MLP se necesita el Toolkit de CUDA cuda_12.6.3_windows_network.exe disponible aqui (Ademas asegurarse que la version sea compatible con la Tarjeta grafica):
 
 https://developer.nvidia.com/cuda-12-6-3-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_network
 
