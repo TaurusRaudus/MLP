@@ -24,5 +24,6 @@ Y copiar el codigo en el archivo kernel.cu y correrlo.
 
 La ejecucion deberia ejectuarse como se presenta
 
-<img width="385" height="739" alt="image" src="https://github.com/user-attachments/assets/f0afc56c-4c65-4f76-8907-f7c4efc0e2dc" />
+<img width="431" height="848" alt="image" src="https://github.com/user-attachments/assets/44df6e36-83dd-40e8-be97-52f8af50e59e" />
+
 
