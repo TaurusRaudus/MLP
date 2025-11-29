@@ -1,6 +1,5 @@
 # MLP
 
-# Perceptron
 Por Manuel Charaja
 
 #Instrucciones
